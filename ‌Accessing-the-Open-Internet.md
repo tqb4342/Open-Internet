@@ -1,0 +1,178 @@
+# 科学上网翻墙教程：为什么、能做什么、怎么做？
+
+## 引言：什么是“科学上网”？
+
+“科学上网”是中文互联网社区对通过技术手段访问被限制或屏蔽的国外互联网内容的通俗称谓，也被称为“翻墙”。
+
+在全球信息高度互联的时代，科学上网不仅关乎网络自由，也关乎学术、工作与生活的全面发展。本文将以科普角度，详细介绍中国用户为什么需要科学上网、翻墙之后能做什么，以及主流翻墙方式。
+
+---
+
+## 为什么在中国需要“翻墙”？
+
+### 1. 互联网信息访问限制
+
+国内实行的是较为严格的网络审查制度，部分国际主流网站与服务在境内无法直接访问。这些平台包括但不限于：
+
+- 搜索引擎：Google、DuckDuckGo
+- 视频平台：YouTube、Vimeo、Twitch
+- 社交媒体：Twitter、Facebook、Instagram、Reddit
+- 学术资源：Wikipedia、Google Scholar、Archive.org
+- AI 工具：ChatGPT、Bard、Copilot 等
+
+这种网络环境在一定程度上限制了用户获取全球信息的能力，也影响了部分技术学习、跨国沟通和业务拓展。
+
+---
+
+### 2. 社交与工作需求
+
+在全球化背景下，与国外的亲友、客户或合作方保持联系已成为常态。科学上网可以帮助用户：
+
+- 使用 WhatsApp、Telegram、Signal 等通讯工具
+- 登录 Gmail、Zoom、Slack 等远程办公平台
+- 访问 GitHub、Notion、Trello 等团队协作服务
+- 管理海外业务后台，如 Amazon、Shopify、PayPal 等
+
+对于从事跨境电商、远程编程、内容创作、自媒体和数字游民群体而言，稳定可控的“出海”通道至关重要。
+
+---
+## 翻墙之后可以做什么？
+
+### 3. 访问全球互联网服务
+
+一旦成功翻墙，用户便可无障碍访问全球互联网中的各种服务与平台，包括但不限于：
+
+- **通信与办公**：Gmail、Outlook、Slack、Zoom、Google Docs、Dropbox
+- **AI 工具**：ChatGPT、Bard、Claude、Midjourney、Notion AI
+- **云服务与开发平台**：GitHub、AWS、Google Cloud、Heroku
+- **学术研究**：Google Scholar、arXiv、JSTOR、SpringerLink
+- **媒体与资讯**：BBC、纽约时报、华盛顿邮报、The Verge、NPR
+- **支付平台**：PayPal、Stripe、Wise（TransferWise）
+
+这些平台构建了全球知识流动和科技发展的主干线，对从业者与学习者而言意义重大。
+
+---
+
+### 4. 技术学习与成长
+
+对于程序员、设计师、研究者、创作者学生、来说，翻墙能极大拓宽学习资源：
+
+- **开发平台**：访问 Stack Overflow、GitHub、CodePen、Hacker News
+- **在线课程**：Coursera、edX、Udemy、Khan Academy、freeCodeCamp
+- **开源工具与文档**：Node.js、Python、React、TensorFlow 等
+- **AI 与前沿技术动态**：订阅 MIT Technology Review、TechCrunch、IEEE Spectrum
+
+这些资源的获取，为技术成长提供了重要土壤。
+
+---
+
+## 如何翻墙？
+
+### 使用 Clash + 机场服务
+
+**Clash** 是基于规则引擎的跨平台代理客户端，结合订阅型“机场”节点服务，是目前国内用户较为流行的方式。
+
+- **操作流程**：注册机场 → 获取订阅链接 → 导入 Clash → 启动代理
+- **客户端**：Clash Verge、Clash for Windows、Clash Meta
+
+**优点：**
+
+- 使用便捷，适合小白用户
+- 自动更新节点，支持规则分流
+- 支持多端（Windows、Mac、iOS、Android）
+
+**缺点：**
+
+- 依赖第三方机场服务，存在跑路或审查风险
+- 节点速度和稳定性受限于机场质量
+- 部分机场存在隐私隐患
+  
+
+### clash机场使用图文教程
+
+我使用的是**一支红杏**提供的“机场”节点服务，支持 Windows、MAC OS X、cross platform、Android、IOS、openwrt等系统，是非常实用的网络代理。网上可能也有免费的服务，不过**我觉得能用钱能解决的问题，尽量还是花些钱，方便、稳定、一劳永逸。**
+
+打开[一枝红杏](https://order.yizhihongxing.club/aff.php?aff=4818)官网。
++ 官网：https://order.yizhihongxing.club/aff.php?aff=4818
++ 翻到下面会有两种VPN的购买方式，如果是个人用的话，选择**入门版**就可以了，一个月100G足够用了。
+![img](https://picx.zhimg.com/80/v2-244e645586693c51228d64ac5d41ca9d_720w.png)
++ 跳转到订购页面后可以先在右上角点击注册，注册一个新账号，然后再根据提示购买你的产品。
++ 购买之后依次点击上方导航栏中的 **服务->产品/服务**，就能看到你购买的节点信息。
+
+![img](https://picx.zhimg.com/80/v2-6daff0a373652eaf043c069d226a73ae_720w.png)
+
+![img](https://picx.zhimg.com/80/v2-0e26f95f8944773ebebfd702f0282234_720w.png)
+
++ 好了，别着急，接下来需要下载一个软件来辅助科学上网。
+
+先放一个下载链接: https://order.yizhihongxing.club/index.php?rp=/knowledgebase/27/
+
+下载安装好之后，前往  **产品/服务** ，点击有效的服务，打开产品详情页面，向下滑动。
+
+点击 Clash 配置右侧的获得地址，在弹出的窗口中，选择 `复制地址` 或是 `下载配置`。
+
+![portal-clash-get-link.png](https://s2.loli.net/2024/01/17/oJ5VRDuU2BPC1Ee.png)
+
+如果点击获得地址没有反应，请更换使用 Chrome 、Firefox 或是 EDGE 浏览器访问客户中心。
+
+**注1.** **订阅链接与你的密码一样重要，请不要分享给他人，如不慎泄露，请在产品详情页面重置链接并提交工单申请重置服务密码。**
+
+**注2. 如果使用链接添加时报错，可以点击** `下载配置` **，手动添加** 
+
+### 添加配置
+
+打开客户端后，使用上一步的订阅链接添加配置：
+
+- 首先点击左侧 `订阅(Profiles)` ，粘贴订阅链接后点击 `导入`
+- 添加成功后点击左侧 `代理(Proxies)` 选择节点使用 
+
+![img](https://s2.loli.net/2024/01/17/7pVMFQKiDWX54Ho.gif)
+
+### 客户端使用介绍
+
+正常在添加配置后，前往设置，开启 `系统代理` 后即可正常使用
+
+![img](https://dl.trojan-cdn.com/images/trojan/clashvr/cvr-systemproxy.png)
+
+客户端模式（在 **代理 (Proxies)** 界面右上角切换）介绍：
+
+**规则模式**：自动区分是否代理大陆网站的流量，日常情况推荐使用这个模式
+
+**全局模式**：所有转发给客户端的流量都会经过代理，切换到全局模式后请选择节点，不需要选择 DIRECT 
+
+**直连模式**：不使用代理
+
+最后再放一个一枝红杏的官网：https://order.yizhihongxing.club/aff.php?aff=4818
+
+![img](https://pica.zhimg.com/80/v2-8063aa45780faa2d4f5b66446eb32671_720w.png)
+
+---
+
+## 常见问答（FAQ）
+
+### 1. 哪种翻墙方式最适合初学者？
+
+最推荐新手使用 **Clash + 机场服务**，注册机场后复制订阅链接导入 Clash 客户端即可，适配 Windows、Mac、iOS、安卓系统。
+
+推荐使用带图形界面的 Clash Meta 或 Clash for Windows。
+
+---
+
+### 2. 科学上网可以访问 ChatGPT 吗？
+
+是的，成功翻墙后即可访问 OpenAI 官网和 ChatGPT 服务。但需注意的是：ChatGPT 对部分地区 IP 有使用限制，建议选择美国、新加坡、日本等节点，并确保浏览器未被识别为爬虫或异常流量。
+
+---
+
+### 3. 免费翻墙工具能用吗？
+
+网上有一些免费或者超级低价 VPN 或机场节点服务，但大多速度慢、不稳定，甚至带有广告或监控程序，存在隐私泄露风险。
+
+❌ 不建议使用免费代理  
+
+✅ 推荐使用付费机场 + 购买正规 VPN
+
+⚠️ 没有哪种服务是完全免费的，所谓“免费翻墙”往往是以牺牲你的隐私、时间和安全为代价 
+
+---
+
