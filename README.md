@@ -64,3 +64,9 @@
 ##### 我觉得还是蛮好用的
 
 ![img](https://pica.zhimg.com/80/v2-8063aa45780faa2d4f5b66446eb32671_720w.png)
+
+## 推荐阅读
+
+- [2025科学上网指南 ](https://tanqingbo.cn/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E4%B9%8BVPN%E7%AF%87/)
+- [苹果/IOS系统手机实现科学上网教程-翻墙VPN软件工具](https://tanqingbo.cn/ios-open-internet/)
+- [安卓/Android系统手机实现科学上网教程-翻墙VPN软件工具](https://tanqingbo.cn/Android-open-internet/)
