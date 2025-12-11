@@ -49,12 +49,12 @@
 
 以下为各平台主流科学上网客户端推荐，适配主流协议和机场订阅：
 
-|    平台     |                          推荐客户端                          |         主要特点          |
-| :---------: | :----------------------------------------------------------: | :-----------------------: |
-| **Windows** | [Clash for Windows](https://clash.org.cn/clash-for-windows/) |  功能丰富，订阅管理优秀   |
-|  **macOS**  |    [Spectre](https://tanqingbo.cn/iphone-open-internet/)     | 适配良好，支持 Clash 订阅 |
-| **Android** |    [Clash for Android](https://tanqingbo.cn/Android-VPN/)    |  功能强大，支持多个订阅   |
-|   **iOS**   |    [Spectre](https://tanqingbo.cn/iphone-open-internet/)     |  需付费安装，支持多协议   |
+|    平台     |                         推荐客户端                          |         主要特点          |
+| :---------: | :---------------------------------------------------------: | :-----------------------: |
+| **Windows** | [Clash for Windows](https://tanqingbo.cn/Win-OpenInternet/) |  功能丰富，订阅管理优秀   |
+|  **macOS**  |    [Spectre](https://tanqingbo.cn/iphone-open-internet/)    | 适配良好，支持 Clash 订阅 |
+| **Android** |   [Clash for Android](https://tanqingbo.cn/Android-VPN/)    |  功能强大，支持多个订阅   |
+|   **iOS**   |    [Spectre](https://tanqingbo.cn/iphone-open-internet/)    |  需付费安装，支持多协议   |
 
  
 
