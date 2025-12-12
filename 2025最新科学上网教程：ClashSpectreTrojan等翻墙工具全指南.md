@@ -54,7 +54,7 @@
 | **Windows** | [Clash for Windows](https://tanqingbo.cn/Win-OpenInternet/) |  功能丰富，订阅管理优秀   |
 |  **macOS**  |    [Spectre](https://tanqingbo.cn/iphone-open-internet/)    | 适配良好，支持 Clash 订阅 |
 | **Android** |   [Clash for Android](https://tanqingbo.cn/Android-VPN/)    |  功能强大，支持多个订阅   |
-|   **iOS**   |    [Spectre](https://tanqingbo.cn/iphone-open-internet/)    |  需付费安装，支持多协议   |
+|   **iOS**   |    [Spectre](https://tanqingbo.cn/iphone-open-internet/)    |   免费安装，支持多协议    |
 
  
 
