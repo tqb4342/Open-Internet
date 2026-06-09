@@ -1,6 +1,6 @@
 **一支红杏加速器**是一家海外注册的[VPN](https://tanqingbo.cn/Clash-VPS/index.html)老牌服务商，运营时间已经超过7+年，使用流行的Trojan翻墙协议，支持多种支付方式包括支付宝、信用卡、加密货币和Stripe。该VPN支持多种订阅格式，包括Clash、Surge、Trojan Qt5等，推荐使用[Clash客户端](https://tanqingbo.cn/Win-OpenInternet/)进行订阅。
 
-- **官网地址**：[https://order.yizhihongxing.org/](https://order.yizhihongxing.club/aff.php?aff=4818)
+- **官网地址**：[https://order.yizhihongxing.org/](https://order.yizhihongxing.org/aff.php?aff=4818)
 - **是否收费**：收费
 - 专享优惠码`11meigui`,享全场**九折**优惠，一枝红杏加速器一个老牌的机场服务商，服务性能稳定，每年基本不做优惠活动。
 

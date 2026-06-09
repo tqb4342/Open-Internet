@@ -184,7 +184,7 @@
 
 1. 明确你的主要用途：AI（ChatGPT/Claude）、学术资料、远程办公、流媒体、游戏。用途会决定你更需要“地区/IP/线路/延迟/稳定性”里的哪一项。
 2. 新手首选 **Clash（规则分流）+ 机场订阅**：一个客户端 + 一条订阅链接，通常比自建 VPS 更省心。
-   - 快速注册入口：https://order.yizhihongxing.club/aff.php?aff=4818
+   - 快速注册入口：https://order.yizhihongxing.org/aff.php?aff=4818
 3. 按图文教程完成配置：导入订阅 → 选 `Rule` 模式 → 开启系统代理或 `TUN` → 测速选节点 → 访问测试网站。
    - 图文教程（含各平台客户端）：[2026 Clash 机场零基础订阅图文教程：订阅导入到测速](https://tanqingbo.cn/Win-OpenInternet/)
 4. 选购前先把关键概念搞懂（能少踩一半坑）：
@@ -345,7 +345,7 @@
 
 **支持的设备：**基础板支持5台设备同时在线，升级版不限制设备数量，如果你只是订阅基础板的话，相当于你可以分享给5个人同时使用；
 
-官网地址：https://order.yizhihongxing.club/aff.php?aff=4818
+官网地址：https://order.yizhihongxing.org/aff.php?aff=4818
 
 **电脑设备注册安装教程：**[Windows 翻墙教程：从零开始科学上网（最稳定的科学上网方案）](https://tanqingbo.cn/Win-OpenInternet/)
 

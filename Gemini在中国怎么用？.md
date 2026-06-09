@@ -63,8 +63,8 @@ API的优点是灵活性高，适合批量任务或定制化应用，比如开�
 
 + 支持 Windows、MAC OS X、cross platform、Android、IOS、openwrt等系统，是非常实用的网络代理软件。
 + 我买的就是一枝红杏的VPN，亲测真的很好用，网速很快，Google、youtubu、Facebook啥的都能上。下面就教大家怎么用起来。
-+ 打开[一枝红杏](https://order.yizhihongxing.club/aff.php?aff=4818)官网。
-+ 官网：https://order.yizhihongxing.club/aff.php?aff=4818
++ 打开[一枝红杏](https://order.yizhihongxing.org/aff.php?aff=4818)官网。
++ 官网：https://order.yizhihongxing.org/aff.php?aff=4818
 + 翻到下面会有2种VPN的购买方式，如果是个人用的话，选择**入门版**就可以了，一个月100G足够用了。
 
 
@@ -82,7 +82,7 @@ API的优点是灵活性高，适合批量任务或定制化应用，比如开�
 
 ### Clash Verge下载 ###
 
-先放一个下载链接: https://order.yizhihongxing.club/index.php?rp=/knowledgebase/13/
+先放一个下载链接: https://order.yizhihongxing.org/index.php?rp=/knowledgebase/13/
 
 下载安装好之后登入后前往  **产品/服务** ，点击【我的产品与服务】，接着打开【产品详情】页面。
 

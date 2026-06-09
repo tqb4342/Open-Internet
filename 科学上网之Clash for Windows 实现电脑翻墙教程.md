@@ -32,11 +32,11 @@ ClashForWindows是一款基于Clash的Windows GUI代理客户端。它有以下�
 - 一支红杏支持 Windows、MAC OS X、cross platform、Android、IOS、openwrt等系统，是非常实用的网络代理VPN。
 - 网速很快，奈飞、电报、Google、youtubu、Facebook啥的都能上。
 
-🔗 官网地址：https://order.yizhihongxing.club/aff.php?aff=4818
+🔗 官网地址：https://order.yizhihongxing.org/aff.php?aff=4818
 
 #### 第一步：注册一支红杏账号并获取订阅地址
 
-1. 打开官网：https://order.yizhihongxing.club/aff.php?aff=4818
+1. 打开官网：https://order.yizhihongxing.org/aff.php?aff=4818
 2. 翻到下面会有VPN的注册方式，如果是个人用的话，选择**入门版**就可以了，一个月100G足够用了。
    [![img](https://picx.zhimg.com/80/v2-244e645586693c51228d64ac5d41ca9d_720w.png)](https://picx.zhimg.com/80/v2-244e645586693c51228d64ac5d41ca9d_720w.png)
 3. 购买之后依次点击上方导航栏中的 **产品与服务->我产品与服务->查看详情**，就能看到你购买的节点信息。

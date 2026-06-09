@@ -32,7 +32,7 @@
 翻墙机场是提供境外代理服务器节点的服务商。
  用户购买套餐后，会获得一个 **订阅链接**，其中包含多条服务器线路（如香港、日本、新加坡、美国等）。
 
-购买机场服务地址：https://order.yizhihongxing.club/aff.php?aff=4818
+购买机场服务地址：https://order.yizhihongxing.org/aff.php?aff=4818
 
 机场的特点：
 
@@ -75,7 +75,7 @@
 
 ### 第一步：注册机场并获取订阅链接
 
-1. 打开官网：https://order.yizhihongxing.club/aff.php?aff=4818
+1. 打开官网：https://order.yizhihongxing.org/aff.php?aff=4818
 2. 注册并购买机场套餐（新手建议入门套餐）
 
 ![img](https://picx.zhimg.com/80/v2-244e645586693c51228d64ac5d41ca9d_720w.png)
@@ -95,7 +95,7 @@
 Clash for Windows 是开源免费的科学上网软件，适合 Windows 10 / 11 使用。
 
 👉 下载地址（开源免费）：
-https://order.yizhihongxing.club/index.php?rp=/knowledgebase/13/
+https://order.yizhihongxing.org/index.php?rp=/knowledgebase/13/
 
 主要优势：
 

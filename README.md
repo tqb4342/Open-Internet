@@ -26,7 +26,7 @@
 - 支持 Windows、MAC OS X、cross platform、Android、IOS、openwrt等系统，是非常实用的网络代理软件。
 - 亲测真的很好用，网速很快，Google、youtubu、Facebook啥的都能上。
 
-🔗 官网地址：https://order.yizhihongxing.club/aff.php?aff=4818
+🔗 官网地址：https://order.yizhihongxing.org/aff.php?aff=4818
 
 ------
 
@@ -34,7 +34,7 @@
 
 #### 第一步：注册一支红杏账号并获取订阅链接
 
-1. 打开官网：https://order.yizhihongxing.club/aff.php?aff=4818
+1. 打开官网：https://order.yizhihongxing.org/aff.php?aff=4818
 2. 翻到下面会有VPN的注册方式，如果是个人用的话，选择**入门版**就可以了，一个月100G足够用了。
    [![img](https://picx.zhimg.com/80/v2-244e645586693c51228d64ac5d41ca9d_720w.png)](https://picx.zhimg.com/80/v2-244e645586693c51228d64ac5d41ca9d_720w.png)
 3. 跳转到订购页面后可以先在右上角点击注册，注册一个新账号，然后再根据提示购买你的产品。
@@ -51,7 +51,7 @@
 #### 第二步：下载 Clash for Windows（推荐工具）
 
 👉 下载地址（开源免费）：
-https://order.yizhihongxing.club/index.php?rp=/knowledgebase/13/
+https://order.yizhihongxing.org/index.php?rp=/knowledgebase/13/
 
 下载安装好之后，前往 **产品/服务** ，打开产品详情页面，向下滑动。
 
@@ -112,7 +112,7 @@ Win 电脑要上外网，只需三步：
 
 相比其他方法，**Clash + 一支红杏机场**方案安全、稳定、全平台支持，是目前最值得推荐的科学上网组合。
 
-📌 一支红杏官网地址：https://order.yizhihongxing.club/aff.php?aff=4818
+📌 一支红杏官网地址：https://order.yizhihongxing.org/aff.php?aff=4818
 
 ## 推荐阅读
 

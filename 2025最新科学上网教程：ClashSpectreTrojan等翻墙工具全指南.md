@@ -20,7 +20,7 @@
 
 机场，指的是提供网络代理节点的服务商。用户购买订阅后可获取一组代理服务器地址，通过客户端连接使用，绕过封锁访问互联网。
 
-购买机场服务地址：https://order.yizhihongxing.club/aff.php?aff=4818
+购买机场服务地址：https://order.yizhihongxing.org/aff.php?aff=4818
 
 常见协议包括：
 
@@ -67,7 +67,7 @@
 使用机场订阅链接结合客户端，可以快速配置完成科学上网：
 
 1. **购买机场服务**
-   - 注册并购买套餐:https://order.yizhihongxing.club/aff.php?aff=4818
+   - 注册并购买套餐:https://order.yizhihongxing.org/aff.php?aff=4818
    - 获取机场提供的“订阅链接”（形如 `https://example.com/sub`）
 2. **导入订阅到客户端**
    - 打开客户端，找到“订阅管理”或“导入订阅”功能
