@@ -1,187 +1,87 @@
-# Windows 翻墙教程：从零开始科学上网（最稳定的科学上网方案）
+# Open-Internet · 科学上网与 AI 工具教程合集
 
-在中国大陆，访问大部分境外网站（如 Google、YouTube、Twitter、ChatGPT 等）都会被网络防火墙阻断。常见问题包括：
+本仓库是 [tanqingbo.cn](https://tanqingbo.cn/) 上「科学上网 / Clash / 协议 / AI 工具」系列教程的**精选镜像与导航**。内容覆盖：科学上网方案对比（VPN / Clash 机场 / VPS 自建）、各平台客户端配置、代理协议原理、机场与订阅选择，以及 ChatGPT / Gemini 等海外 AI 工具的国内访问与使用。
 
-- 网站打不开 / 加载失败
-- 页面显示连接超时
-- 无法登录国际应用如 Discord、Telegram、OpenAI
+> 所有文章均可在 tanqingbo.cn 阅读完整版与最新更新。本仓库的 `docs/` 目录为离线精选版，便于收藏与批量检索。
 
-解决方法只有一个：**使用科学上网工具+机场服务**。
+---
 
-------
+## 🧭 核心总览（建议先看这 4 篇）
 
-### 🚀 科学上网 = 工具 + 节点（机场）
+想用最短路径建立完整认知，从下面 4 个枢纽页入手（博客在线版）：
 
-你需要两样东西：
+- **[科学上网完全指南（2026 系统总览）](https://tanqingbo.cn/science-internet-guide/)** —— VPN / Clash / VPS 三大方案对比 + 全平台配置入口
+- **[Clash 完整配置教程](https://tanqingbo.cn/clash-guide/)** —— 下载安装、配置文件、规则分流、排障一站式
+- **[AI 工具完全指南](https://tanqingbo.cn/ai-tools-guide/)** —— ChatGPT / Gemini / 国产模型怎么选、国内怎么用
+- **[科学上网协议速查表](https://tanqingbo.cn/protocol-cheatsheet/)** —— VMess / VLESS / Trojan / Reality / Hysteria2 一张表看懂
 
-1. **科学上网工具**：例如 Clash for Windows，用于接收并解析节点
-2. **机场服务**：例如「一支红杏」，提供高速稳定的加密节点，支持解锁 Google / YouTube / ChatGPT 等平台
+---
 
-------
+## 🚀 新手快速上手（Windows）
 
-### ✅ 一支红杏机场简介（推荐）
+在中国大陆，访问 Google、YouTube、ChatGPT 等境外服务会被网络防火墙阻断。解决思路是「**工具 + 节点（机场）**」：
 
-一支红杏是銘佑科技（香港）有限公司（也是老薛主机，不会跑路型）推出的网络加速器服务，基于 Trojan 协议的科学上网方式，该协议会将您需要代理的网络数据伪装成 HTTPS 协议的正常网络数据，以通过防火墙的检测和封锁，连接速度快，它会帮助你在互联网上冲浪时保护你的隐私和安全。
+1. **科学上网工具**：如 Clash，用于接收并解析节点（详见上方 Clash 教程）
+2. **机场服务**：提供高速稳定的加密节点，解锁 Google / YouTube / ChatGPT 等
 
-- 支持 Windows、MAC OS X、cross platform、Android、IOS、openwrt等系统，是非常实用的网络代理软件。
-- 亲测真的很好用，网速很快，Google、youtubu、Facebook啥的都能上。
+### Win 电脑四步实操
 
-🔗 官网地址：https://order.yizhihongxing.org/aff.php?aff=4818
+1. **注册机场并获取订阅链接** → 在「产品与服务」中查看节点信息
+2. **下载 Clash 客户端**（开源免费）→ 导入订阅
+3. **粘贴订阅链接** → 点击 Download 下载配置
+4. **开启系统代理** → 选低延迟节点（香港 / 新加坡 / 日本），访问 Google 测试
 
-------
+> ⚠️ **合规提示**：本仓库内容仅作技术原理与工具使用分享，请遵守所在国家/地区的法律法规，仅用于合法用途。
 
-### 🖥 Win 电脑科学上网详细教程
+---
 
-#### 第一步：注册一支红杏账号并获取订阅链接
+## ⭐ 推荐机场（赞助）
 
-1. 打开官网：https://order.yizhihongxing.org/aff.php?aff=4818
-2. 翻到下面会有VPN的注册方式，如果是个人用的话，选择**入门版**就可以了，一个月100G足够用了。
-   [![img](https://picx.zhimg.com/80/v2-244e645586693c51228d64ac5d41ca9d_720w.png)](https://picx.zhimg.com/80/v2-244e645586693c51228d64ac5d41ca9d_720w.png)
-3. 跳转到订购页面后可以先在右上角点击注册，注册一个新账号，然后再根据提示购买你的产品。
-4. 购买之后依次点击上方导航栏中的 **产品与服务->我产品与服务->查看详情**，就能看到你购买的节点信息。
+不少读者问稳定机场怎么选。长期口碑较好的是 **「一支红杏」**（香港公司背景，支持 Trojan / VLESS / VMess 等主流协议，全平台、解锁能力强）：
 
-[![img](https://pica.zhimg.com/80/v2-2d44e88baa237bfe08fe7f5818f28d97_720w.png)](https://pica.zhimg.com/80/v2-2d44e88baa237bfe08fe7f5818f28d97_720w.png)
+🔗 官网（带专属优惠）：https://order.yizhihongxing.org/aff.php?aff=4818
 
-[![img](https://picx.zhimg.com/80/v2-2ba28aad0e03218b8498758845a4008a_720w.png)](https://picx.zhimg.com/80/v2-2ba28aad0e03218b8498758845a4008a_720w.png)
+---
 
-购买完代理服务器之后，接下来需要安装一个工具来辅助我们进行科学上网。
+## 📚 本仓库精选文档（`docs/`）
 
-------
+仓库内的 14 篇精选文档按主题分类如下（相对路径，可离线阅读）：
 
-#### 第二步：下载 Clash for Windows（推荐工具）
+### 🖥 综合与平台教程
 
-👉 下载地址（开源免费）：
-https://order.yizhihongxing.org/index.php?rp=/knowledgebase/13/
+- [科学上网完全指南](docs/科学上网完全指南.md) —— VPN / Clash / VPS 三大方案对比 + 全平台入口 + 国外网站导航
+- [Windows 科学上网教程](docs/Windows科学上网教程.md) —— Clash Verge 从零配置四步实操（2026 最新截图）
+- [手机科学上网教程](docs/手机科学上网教程.md) —— Android（ClashMeta）+ iOS（Spectre）全流程，含海外 Apple ID 注册
+- [VPN 推荐与对比](docs/VPN推荐与对比.md) —— 翻墙 VPN 选购维度与使用指南
 
-下载安装好之后，前往 **产品/服务** ，打开产品详情页面，向下滑动。
+### 🔧 Clash / 协议 / 机场
 
-点击 Clash 配置右侧的获得地址，在弹出的窗口中，选择 `复制地址` 或是 `下载配置`。
+- [如何挑选 Clash 机场服务](docs/如何挑选Clash机场服务.md) —— 机场选购核心指标与避坑
+- [Clash 协议与名词速查](docs/Clash协议与名词速查.md) —— 协议详解（Vmess/Vless/Trojan/Reality/Hysteria/TUIC）+ 机场术语字典二合一
 
-[![portal-clash-get-link.png](https://s2.loli.net/2024/01/17/oJ5VRDuU2BPC1Ee.png)](https://s2.loli.net/2024/01/17/oJ5VRDuU2BPC1Ee.png)
+### 🤖 AI 工具与海外服务
 
-------
+- [ChatGPT 国内注册与使用](docs/ChatGPT国内注册与使用.md)
+- [Gemini 国内使用](docs/Gemini国内使用.md)
+- [2025 最佳 AI 工具一览](docs/2025最佳AI工具一览.md)
+- [电报 Telegram 教程](docs/电报Telegram教程.md)
 
-#### 第三步：导入一支红杏订阅链接
+### 🎬 流媒体与墙外资源
 
-1. 打开 Clash for Windows
+- [奈飞 Netflix 教程](docs/奈飞Netflix教程.md)
+- [国外视频网站推荐](docs/国外视频网站推荐.md)
+- [翻墙后必下 App](docs/翻墙后必下App.md)
 
-2. 左侧菜单点击【Profiles】（配置文件）
+### ⭐ 机场评测
 
-3. 粘贴一支红杏的订阅链接 > 点击【Download】下载配置
+- [一支红杏机场评测](docs/一枝红杏机场评测.md)
 
-   ![img](https://s2.loli.net/2024/01/17/7pVMFQKiDWX54Ho.gif)
+> 完整目录与分类索引另见 [文章分类目录](文章分类目录.md)。
 
-------
+---
 
-#### 第四步：启动代理，开始上网
+## 📌 说明
 
-1. 在 Clash for Windows 界面顶部开启「系统代理」开关
-2. 选择一个延迟较低的节点（推荐香港 / 新加坡 / 日本）
-3. 打开浏览器，访问 Google / YouTube / ChatGPT 测试即可
-
-------
-
-### 🌎 一支红杏节点支持平台一览
-
-|               功能                |         奶油云支持          |
-| :-------------------------------: | :-------------------------: |
-|     Google / YouTube / Gmail      |           ✅ 解锁            |
-|   ChatGPT / OpenAI / Midjourney   |           ✅ 解锁            |
-| Netflix / Disney+ / TikTok 海外版 |     ✅ 解锁（部分专线）      |
-|             支持协议              | Vmess / VLESS / Trojan / SS |
-
-------
-
-### ❓ 常见问题解答
-
-**Q：订阅导入后无节点？**
-A：请检查 Clash 是否更新配置成功，或联系客服确认订阅是否正确。
-
-**Q：YouTube 打不开、视频加载慢？**
-A：建议更换节点（低延迟）、开启 TUN 模式、切换网络测试。
-
-------
-
-### ✅ 总结
-
-Win 电脑要上外网，只需三步：
-
-1. 注册一支红杏账号并获取订阅
-2. 下载并安装 Clash for Windows
-3. 导入节点、开启代理，立即畅游全网
-
-相比其他方法，**Clash + 一支红杏机场**方案安全、稳定、全平台支持，是目前最值得推荐的科学上网组合。
-
-📌 一支红杏官网地址：https://order.yizhihongxing.org/aff.php?aff=4818
-
-## 推荐阅读
-
-### 🖥 Win 电脑科学上网（翻墙）教程
-
-[Windows 翻墙教程：从零开始科学上网（最稳定的科学上网方案） |  IT码农](https://tanqingbo.cn/Win-OpenInternet/)
-
-[2026 年最稳定的科学上网教程，新手也能 10 分钟学会 |  IT码农](https://tanqingbo.cn/windows-science-internet/)
-
-[2026如何使用梯子工具实现翻墙 科学上网？ |  IT码农](https://tanqingbo.cn/2026-Open-Internet/)
-
-[外网挂梯子/电脑翻墙教程：2026年最稳定的科学上网方案 |  IT码农](https://tanqingbo.cn/clashvpn/)
-
-[2026年最全科学上网教程：电脑/手机翻墙最稳定方案、VPN推荐、翻墙软件、科学上网工具评测 |  IT码农](https://tanqingbo.cn/2026-clash-vpn/)
-
-[科学上网之Clash for Windows 实现电脑翻墙教程 |  IT码农](https://tanqingbo.cn/ClashForWindows/)
-
-[科学上网教程：2026年最新VPN选择与使用指南 |  IT码农](https://tanqingbo.cn/VPN2025/)
-
-## Android 安卓科学上网翻墙软件教程
-
-[Android如何用外网/安卓手机搭梯子-翻墙VPN软件工具 |  IT码农](https://tanqingbo.cn/Android-VPN/)
-
-[手机/电脑如何翻墙上外网：VPN推荐、科学上网教程 |  IT码农](https://tanqingbo.cn/phone-win-open-Internet/)
-
-[安卓/Android系统手机实现科学上网教程-翻墙VPN软件工具 |  IT码农](https://tanqingbo.cn/Android-open-internet/)
-
-[手机电脑翻墙教程：2026年最全指南，小白也能轻松学会 |  IT码农](https://tanqingbo.cn/computer-censorship/)
-
-### iPhone/iPad/iOS/Mac 苹果手机科学上网翻墙教程
-
-[iphone如何用外网/苹果手机搭梯子-翻墙VPN软件工具 |  IT码农](https://tanqingbo.cn/iphone-open-internet/)
-
-[苹果/IOS系统手机实现科学上网教程-翻墙VPN软件工具 |  IT码农](https://tanqingbo.cn/ios-open-internet/)
-
-### Clash/Spectre/Trojan/V2ray/SS/SSR 翻墙教程
-
-[2026 保姆级科学上网/魔法上网教程：Clash机场 / VPN / 自建 VPS 全面解析 |  IT码农](https://tanqingbo.cn/VPN2026/)
-
-[2026最新科学上网教程：Clash/Spectre/Trojan等翻墙工具全指南 |  IT码农](https://tanqingbo.cn/VPN-HELP/)
-
-[2026主流科学上网工具推荐-支持Windows/Android/macOS/iOS/Linux |  IT码农](https://tanqingbo.cn/2026-best-vpn/)
-
-[2026最新中国科学上网终极指南：VPN推荐、翻墙教程、科学上网工具评测 |  IT码农](https://tanqingbo.cn/great-firewall/)
-
-[科学上网最全指南，含翻墙软件 |  IT码农](https://tanqingbo.cn/Open-Internet2/)
-
-[如何使用梯子工具实现翻墙-科学上网工具VPN？ |  IT码农](https://tanqingbo.cn/choose/)
-
-[如何挑选Clash机场服务 |  IT码农](https://tanqingbo.cn/choose2/)
-
-### 墙外工具介绍及使用教程
-
-[电报(Telegram)下载注册教程，电报群怎么加入？ |  IT码农](https://tanqingbo.cn/Telegram-VPN/)
-
-[奈飞（Netflix）全教程：如何注册观看奈飞？ |  IT码农](https://tanqingbo.cn/Netflix-VPN/)
-
-[如何在国内注册ChatGPT？ChatGPT怎么用？ |  IT码农](https://tanqingbo.cn/ChatGPT-VPN/)
-
-[注册ChatGPT详细指南 |  IT码农](https://tanqingbo.cn/how-to-signup-chatgpt/)
-
-[Gemini在中国怎么用？ |  IT码农](https://tanqingbo.cn/how-to-use-Gemini/)
-
-[2025最佳AI工具：国外最新人工智能工具一览 |  IT码农](https://tanqingbo.cn/Best-AI-tools/)
-
-[GPT-4o国内怎么使用？详细方法来了！！ |  IT码农](https://tanqingbo.cn/GPT-4o/)
-
-[外网流媒体自由！ |  IT码农](https://tanqingbo.cn/popcorn/)
-
-[深度体验：为什么我推荐你认真用一次 Gemini？ |  IT码农](https://tanqingbo.cn/Gemini-pro/)
-
-[公认最好用的AI工具：Gemini到底该如何使用？（最全教程） |  IT码农](https://tanqingbo.cn/Gemini-vpn/)
+- 本站内容持续更新，教程完整版与最新数据请以 [tanqingbo.cn](https://tanqingbo.cn/) 为准。
+- 引用本仓库内容请注明出处；协议速查表等可自由转载（注明来源即可）。
+- 合规声明：技术原理分享，请合法使用。
