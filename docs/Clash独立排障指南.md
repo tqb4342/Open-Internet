@@ -45,4 +45,4 @@
 
 ---
 
-📌 完整版含每个症状的详细排查步骤，见 [Clash / Mihomo 独立排障指南 - tanqingbo.cn](https://tanqingbo.cn/troubleshooting/)，配套 [Clash 完整教程](https://tanqingbo.cn/clash-guide/) 与 [科学上网完全指南](https://tanqingbo.cn/science-internet-guide/)。
+📌 完整版含每个症状的详细排查步骤，见 [Clash / Mihomo 独立排障指南 - tanqingbo.cn](https://tanqingbo.cn/troubleshooting/)。

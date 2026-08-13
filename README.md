@@ -25,19 +25,30 @@
 
 ## 这是什么？
 
-本仓库系统整理了「**科学上网 / 翻墙 / Clash / 代理协议 / 海外 AI 工具**」的中文教程，覆盖：VPN 与 Clash 机场与 VPS 自建三大方案对比、Windows / Android / iOS 全平台客户端配置、VMess / VLESS / Trojan / Reality / Hysteria2 等协议原理、机场与订阅选择避坑，以及 ChatGPT、Gemini 等海外 AI 工具的国内访问与使用。
+**想搞定「科学上网 / 翻墙」这件事？这个仓库是你要的中文速查库** —— 从选方案、配 Clash、挑机场，到排障、测速、用上 ChatGPT / Gemini，一张表一个症状就能查到。
+
+覆盖主题：VPN / Clash 机场 / VPS 自建三大方案、Windows / Android / iOS 全平台配置、VMess / VLESS / Trojan / Reality / Hysteria2 协议、机场订阅避坑，以及海外 AI 工具的国内访问。
 
 - **在线版（最新）**：[tanqingbo.cn](https://tanqingbo.cn/) —— 完整图文与持续更新
 - **离线版（精选）**：本仓库 `docs/` 目录，18 篇 canonical 文档，便于收藏、离线阅读、批量检索
 
 ## 🧭 核心总览（建议先看这 4 篇）
 
-想用最短路径建立完整认知，从下面 4 个枢纽页入手（博客在线版，本仓库 `docs/` 内有对应精选版）：
+想用最短路径建立完整认知，从下面 4 个枢纽页入手（博客在线版）：
 
 - **[科学上网完全指南](https://tanqingbo.cn/science-internet-guide/)** —— VPN / Clash / VPS 三大方案对比 + 全平台配置入口
 - **[Clash 完整配置教程](https://tanqingbo.cn/clash-guide/)** —— 下载安装、配置文件、规则分流、排障一站式
 - **[AI 工具完全指南](https://tanqingbo.cn/ai-tools-guide/)** —— ChatGPT / Gemini / 国产模型怎么选、国内怎么用
 - **[科学上网协议速查表](https://tanqingbo.cn/protocol-cheatsheet/)** —— VMess / VLESS / Trojan / Reality / Hysteria2 一张表看懂
+
+## ⚡ 进阶速查（遇到具体问题直接查这 4 篇）
+
+仓库里的高价值速查资产，不用通读全文，按需定位：
+
+- **[机场线路类型详解](docs/机场线路类型详解.md)** —— 直连 / 中转 / 专线（IPLC/IEPL）到底差在哪、怎么选
+- **[科学上网协议速查表](docs/协议速查表.md)** —— 一张表看懂所有协议 + 演进时间线
+- **[Clash 独立排障指南](docs/Clash独立排障指南.md)** —— 按「症状」对照排查，别再盲目换节点
+- **[Clash 节点测速指南](docs/节点测速指南.md)** —— 延迟 ≠ 带宽，测速失败 / 延迟高怎么排
 
 ## 📚 本仓库精选文档（`docs/`）
 
@@ -132,20 +143,18 @@ Open-Internet/
 3. **粘贴订阅链接** → 点击 Download 下载配置
 4. **开启系统代理** → 选低延迟节点（香港 / 新加坡 / 日本），访问 Google 测试
 
-## 📌 说明与合规
-
-- 本站内容持续更新，教程完整版与最新数据请以 [tanqingbo.cn](https://tanqingbo.cn/) 为准。
-- 本仓库内容采用 [CC BY 4.0](LICENSE) 许可，可自由转载，**请注明来源 [tanqingbo.cn](https://tanqingbo.cn/)**。
-- ⚠️ **合规声明**：本仓库仅作技术原理与工具使用的科普分享，请遵守所在国家 / 地区的法律法规，仅用于学习、科研、跨境办公等合法用途。
-
 ## 🧾 机场怎么选（附一个例子）
 
 选机场主要看三点：**线路稳定性**（有没有独立中转/ IEPL 专线）、**解锁能力**（Google / YouTube / ChatGPT / Netflix 是不是真解锁）、**客服响应**（出问题有没有人管）。协议层面，优先选支持 Trojan / VLESS / Reality 等较新协议的，老协议容易节点被墙。
 
 如果你懒得逐个对比，可以参考一个长期口碑还行的选择——「一枝红杏」（香港公司背景，支持主流协议、全平台、解锁能力较强），更多细节见 [这篇机场的评测](docs/一枝红杏机场评测.md)。这里不做过多的商业推荐，具体还是以你实际体验为准。
 
-> 附：本站教程按合规原则持续迭代，最近一次内容整合（2026-07）将 30 篇同质文章合并为 14 篇 canonical 文档，维护点减少约 53%。
+## 📌 说明与合规
+
+- 本站内容持续更新，教程完整版与最新数据请以 [tanqingbo.cn](https://tanqingbo.cn/) 为准。
+- 本仓库内容采用 [CC BY 4.0](LICENSE) 许可，可自由转载，**请注明来源 [tanqingbo.cn](https://tanqingbo.cn/)**。
+- ⚠️ **合规声明**：本仓库仅作技术原理与工具使用的科普分享，请遵守所在国家 / 地区的法律法规，仅用于学习、科研、跨境办公等合法用途。
 
 ---
 
-<sub>Maintained by [tanqingbo.cn](https://tanqingbo.cn/) · 内容整合 30 → 14 精选文档 · 持续更新中</sub>
+<sub>Maintained by [tanqingbo.cn](https://tanqingbo.cn/) · 持续更新中</sub>
