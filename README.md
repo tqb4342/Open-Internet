@@ -28,7 +28,7 @@
 本仓库系统整理了「**科学上网 / 翻墙 / Clash / 代理协议 / 海外 AI 工具**」的中文教程，覆盖：VPN 与 Clash 机场与 VPS 自建三大方案对比、Windows / Android / iOS 全平台客户端配置、VMess / VLESS / Trojan / Reality / Hysteria2 等协议原理、机场与订阅选择避坑，以及 ChatGPT、Gemini 等海外 AI 工具的国内访问与使用。
 
 - **在线版（最新）**：[tanqingbo.cn](https://tanqingbo.cn/) —— 完整图文与持续更新
-- **离线版（精选）**：本仓库 `docs/` 目录，14 篇 canonical 文档，便于收藏、离线阅读、批量检索
+- **离线版（精选）**：本仓库 `docs/` 目录，18 篇 canonical 文档，便于收藏、离线阅读、批量检索
 
 ## 🧭 核心总览（建议先看这 4 篇）
 
@@ -41,7 +41,7 @@
 
 ## 📚 本仓库精选文档（`docs/`）
 
-仓库内的 14 篇精选文档按主题分类如下（相对路径，可离线阅读）：
+仓库内的 18 篇精选文档按主题分类如下（相对路径，可离线阅读）：
 
 ### 🖥 综合与平台教程
 
@@ -57,7 +57,11 @@
 | 文档 | 解决什么问题 |
 |------|-------------|
 | [如何挑选 Clash 机场服务](docs/如何挑选Clash机场服务.md) | 机场选购核心指标与避坑 |
-| [Clash 协议与名词速查](docs/Clash协议与名词速查.md) | 协议详解（Vmess/Vless/Trojan/Reality/Hysteria/TUIC）+ 机场术语字典二合一 |
+| [机场线路类型详解](docs/机场线路类型详解.md) | 直连 / 中转 / 专线（IPLC/IEPL）区别与选择 |
+| [科学上网协议速查表](docs/协议速查表.md) | VMess/VLESS/Trojan/Reality/Hysteria2 一张表看懂 + 演进时间线 |
+| [Clash 协议与名词速查](docs/Clash协议与名词速查.md) | 协议详解 + 机场术语字典二合一 |
+| [Clash 独立排障指南](docs/Clash独立排障指南.md) | 按症状排查（模式/TUN/DNS/订阅） |
+| [Clash 节点测速指南](docs/节点测速指南.md) | 延迟怎么看、怎么选节点、测速失败怎么排查 |
 
 ### 🤖 AI 工具与海外服务
 
@@ -90,14 +94,18 @@
 Open-Internet/
 ├── README.md            # 本文件
 ├── LICENSE              # CC BY 4.0
-├── 文章分类目录.md        # 14 篇文档分类索引
-└── docs/                # 14 篇 canonical 精选文档
+├── 文章分类目录.md        # 18 篇文档分类索引
+└── docs/                # 18 篇 canonical 精选文档
     ├── 科学上网完全指南.md
     ├── Windows科学上网教程.md
     ├── 手机科学上网教程.md
     ├── VPN推荐与对比.md
     ├── 如何挑选Clash机场服务.md
+    ├── 机场线路类型详解.md
+    ├── 协议速查表.md
     ├── Clash协议与名词速查.md
+    ├── Clash独立排障指南.md
+    ├── 节点测速指南.md
     ├── ChatGPT国内注册与使用.md
     ├── Gemini国内使用.md
     ├── 2025最佳AI工具一览.md
