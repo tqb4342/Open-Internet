@@ -30,7 +30,7 @@
 覆盖主题：VPN / Clash 机场 / VPS 自建三大方案、Windows / Android / iOS 全平台配置、VMess / VLESS / Trojan / Reality / Hysteria2 协议、机场订阅避坑，以及海外 AI 工具的国内访问。
 
 - **在线版（最新）**：[tanqingbo.cn](https://tanqingbo.cn/) —— 完整图文与持续更新
-- **离线版（精选）**：本仓库 `docs/` 目录，16 篇 canonical 文档，便于收藏、离线阅读、批量检索
+- **离线版（精选）**：本仓库 `docs/` 目录，17 篇 canonical 文档，便于收藏、离线阅读、批量检索
 
 ## 🧭 核心总览（建议先看这 4 篇）
 
@@ -52,7 +52,7 @@
 
 ## 📚 本仓库精选文档（`docs/`）
 
-仓库内的 16 篇精选文档按主题分类如下（相对路径，可离线阅读）：
+仓库内的 17 篇精选文档按主题分类如下（相对路径，可离线阅读）：
 
 ### 🖥 综合与平台教程
 
@@ -61,6 +61,7 @@
 | [科学上网完全指南](docs/科学上网完全指南.md) | VPN / Clash / VPS 三大方案对比 + 全平台入口 + 国外网站导航 |
 | [Windows 翻墙三方案对比](docs/Windows翻墙三方案对比.md) | 机场 / 自建 VPS / 商业 VPN 在 Windows 上的实操对比与选择 |
 | [手机科学上网教程](docs/手机科学上网教程.md) | Android（ClashMeta）+ iOS（Spectre）全流程，含海外 Apple ID 注册 |
+| [快狸机场全平台使用教程](docs/快狸机场全平台使用教程.md) | 以快狸为例的机场客户端配置全流程（Windows / 安卓 / iPhone） |
 
 ### 🔧 Clash / 协议 / 机场
 
