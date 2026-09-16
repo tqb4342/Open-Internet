@@ -4,7 +4,7 @@
 
 ### 科学上网 · Clash · 代理协议 · AI 工具 中文教程合集
 
-持续更新的精选教程镜像与导航 · 配套博客 [tanqingbo.cn](https://tanqingbo.cn/)
+持续更新的中文教程精选与导航 · 每篇只解决一个具体问题，可离线检索 · 配套博客 [tanqingbo.cn](https://tanqingbo.cn/)
 
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/tqb4342/Open-Internet?label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0&color=success)
@@ -80,7 +80,7 @@
 |------|-------------|
 | [ChatGPT 国内注册与使用](docs/ChatGPT国内注册与使用.md) | ChatGPT 注册、登录、使用全流程 |
 | [Gemini 国内使用](docs/Gemini国内使用.md) | Google Gemini 国内访问与使用 |
-| [2025 最佳 AI 工具一览](docs/2025最佳AI工具一览.md) | 对话 / 图像 / 视频 / 音频 AI 工具合集 |
+| [AI 工具一览](docs/AI工具一览.md) | 对话 / 图像 / 视频 / 音频四大类工具整理，附选型提醒 |
 | [电报 Telegram 教程](docs/电报Telegram教程.md) | Telegram 下载、注册、加群 |
 
 ### 🎬 流媒体与墙外资源
@@ -99,11 +99,12 @@
 Open-Internet/
 ├── README.md            # 本文件
 ├── LICENSE              # CC BY 4.0
-├── 文章分类目录.md        # 16 篇文档分类索引
-└── docs/                # 16 篇 canonical 精选文档
+├── 文章分类目录.md        # 17 篇文档分类索引
+└── docs/                # 17 篇 canonical 精选文档
     ├── 科学上网完全指南.md
     ├── Windows翻墙三方案对比.md
     ├── 手机科学上网教程.md
+    ├── 快狸机场全平台使用教程.md
     ├── 如何挑选Clash机场服务.md
     ├── 机场线路类型详解.md
     ├── 协议速查表.md
@@ -112,14 +113,14 @@ Open-Internet/
     ├── 节点测速指南.md
     ├── ChatGPT国内注册与使用.md
     ├── Gemini国内使用.md
-    ├── 2025最佳AI工具一览.md
+    ├── AI工具一览.md
     ├── 奈飞Netflix教程.md
     ├── 国外视频网站推荐.md
     ├── 翻墙后必下App.md
     └── 电报Telegram教程.md
 ```
 
-> 本仓库于 2026-07 完成内容整合：原 30 篇同质 / 重复文章合并为 14 篇 canonical 文档，每篇负责一个清晰搜索意图，维护点减少约 53%。
+> 本仓库于 2026-07 完成内容整合：原 30 篇同质 / 重复文章整合为 17 篇 canonical 文档，每篇负责一个清晰搜索意图，维护点减少约 43%。
 
 ## 🚀 新手快速上手（Windows）
 
