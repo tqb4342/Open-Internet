@@ -50,6 +50,16 @@
 - **[Clash 独立排障指南](docs/Clash独立排障指南.md)** —— 按「症状」对照排查，别再盲目换节点
 - **[Clash 节点测速指南](docs/节点测速指南.md)** —— 延迟 ≠ 带宽，测速失败 / 延迟高怎么排
 
+## 🔥 博客热门教程（在线版，持续更新）
+
+站内阅读量最高的实操教程，图文更完整、数据更新更及时：
+
+- **[Windows 翻墙图文教程：Clash 从下载到能用](https://tanqingbo.cn/Win-OpenInternet/)**
+- **[Telegram 完全指南：注册、中文设置与搜索机器人](https://tanqingbo.cn/telegram-guide/)**
+- **[2026 翻墙软件推荐：VPN 与机场怎么选](https://tanqingbo.cn/best-vps/)**
+- **[自建机场教程：VPS 搭建机场全流程](https://tanqingbo.cn/build-your-own-airport/)**
+- **[手机电脑翻墙教程：2026 科学上网保姆级指南](https://tanqingbo.cn/Clash-VPS/)**
+
 ## 📚 本仓库精选文档（`docs/`）
 
 仓库内的 17 篇精选文档按主题分类如下（相对路径，可离线阅读）：

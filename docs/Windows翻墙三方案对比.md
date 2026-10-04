@@ -122,6 +122,8 @@
 
 - [科学上网完全指南](科学上网完全指南.md) —— 三方案全貌 + 协议/线路基础
 - [Windows 翻墙全流程教程](https://tanqingbo.cn/win-kuaili/) —— 机场路线的完整图文步骤
+- [2026 翻墙软件推荐：VPN 与机场怎么选](https://tanqingbo.cn/best-vps/) —— 商业 VPN 路线的选型对比
+- [自建机场教程：VPS 搭建机场全流程](https://tanqingbo.cn/build-your-own-airport/) —— 自建路线的完整流程与真实成本账
 - [如何挑选 Clash 机场服务](如何挑选Clash机场服务.md) —— 机场选购避坑
 - [Clash DNS 配置指南](https://tanqingbo.cn/clash-dns-guide/) —— "能连上却打不开网页"的解法
 - [Clash 独立排障指南](Clash独立排障指南.md) —— 按症状排查

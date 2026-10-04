@@ -260,6 +260,9 @@
 
 ## 推荐阅读
 
+- [2026 翻墙软件推荐：VPN 与机场怎么选](https://tanqingbo.cn/best-vps/) —— 机场推荐与选购细则
+- [自建机场教程：VPS 搭建机场全流程](https://tanqingbo.cn/build-your-own-airport/) —— 不想买机场、愿意自己折腾的备选路线
+
 - [2025科学上网指南 ](https://tanqingbo.cn/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E4%B9%8BVPN%E7%AF%87/)
 
 - [苹果/IOS系统手机实现科学上网教程-翻墙VPN软件工具](https://tanqingbo.cn/ios-open-internet/)

@@ -918,4 +918,6 @@ Reality是基于VLESS协议的新型加密与伪装机制，具备更强抗封�
 
 ## 推荐阅读
 
+- [Clash 完全配置教程（2026）：订阅与规则分流](https://tanqingbo.cn/clash-guide/)
+- [主流翻墙协议详解：谁能扛住封锁](https://tanqingbo.cn/protocols/)
 - [机场推荐榜单 | 2026科学上网指南 ](https://tanqingbo.cn/Win-OpenInternet/)

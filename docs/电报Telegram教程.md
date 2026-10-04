@@ -100,3 +100,5 @@ Telegram注册要使用电话号码，如果设置不当，你电报账号的电
 **[苹果/IOS系统手机实现科学上网教程-翻墙VPN软件工具](https://tanqingbo.cn/ios-open-internet/)**
 
 **[安卓/Android系统手机实现科学上网教程-翻墙VPN软件工具](https://tanqingbo.cn/Android-open-internet/)**
+
+**[Telegram 完全指南：注册、中文设置与搜索机器人](https://tanqingbo.cn/telegram-guide/)**

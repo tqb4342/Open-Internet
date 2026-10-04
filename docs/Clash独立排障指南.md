@@ -168,4 +168,4 @@
 
 ---
 
-📌 更多细节见 [Clash / Mihomo 独立排障指南 - tanqingbo.cn](https://tanqingbo.cn/troubleshooting/)。测速相关的判断标准见 [Clash 节点测速完全指南](https://tanqingbo.cn/clash-node-testing/)，DNS 问题见 [Clash DNS 配置：fake-ip 与 DNS 泄露排查](https://tanqingbo.cn/clash-dns-guide/)。
+📌 更多细节见 [Clash / Mihomo 独立排障指南 - tanqingbo.cn](https://tanqingbo.cn/troubleshooting/)。测速相关的判断标准见 [Clash 节点测速完全指南](https://tanqingbo.cn/clash-node-testing/)，DNS 问题见 [Clash DNS 配置：fake-ip 与 DNS 泄露排查](https://tanqingbo.cn/clash-dns-guide/)。客户端安装与订阅导入等基础问题，见 [Clash 完全配置教程（2026）：订阅与规则分流](https://tanqingbo.cn/clash-guide/)。
