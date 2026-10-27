@@ -80,7 +80,7 @@
 | [科学上网完全指南](docs/科学上网完全指南.md) | VPN / Clash / VPS 三大方案对比 + 全平台入口 + 国外网站导航 |
 | [Windows 翻墙三方案对比](docs/Windows翻墙三方案对比.md) | 机场 / 自建 VPS / 商业 VPN 在 Windows 上的实操对比与选择 |
 | [手机科学上网教程](docs/手机科学上网教程.md) | Android（ClashMeta）+ iOS（Spectre）全流程，含海外 Apple ID 注册 |
-| [快狸机场全平台使用教程](docs/快狸机场全平台使用教程.md) | 以快狸为例演示机场客户端配置全流程（Windows / 安卓 / iPhone），仅示例非推荐 |
+| [快狸机场全平台使用教程](docs/快狸机场全平台使用教程.md) | 以快狸为例的机场客户端配置全流程（Windows / 安卓 / iPhone） |
 
 ### 🔧 Clash / 协议 / 机场
 
