@@ -16,8 +16,8 @@ ChatGPT是OpenAI开发的一款大型语言模型聊天机器人，于2022年11�
 
 ### ChatGPT的版本
 
-- **ChatGPT免费版**： ChatGPT免费版用户可以免费使用基本功能，ChatGPT免费版运行的是GPT-3.5。
-- **ChatGPT Plus版**：ChatGPT同时提供付费的Plus版，月费20美元，提供优先访问、更快的响应时间以及首先体验新功能的机会。Plus版用户将运行GPT-4和最新版本的GPT-4o，还可以使用图片生成等附加功能。
+- **ChatGPT免费版**： ChatGPT免费版用户可以免费使用基本功能，可使用 GPT-5 系列及部分新模型的有限额度。
+- **ChatGPT Plus版**：ChatGPT同时提供付费的Plus版，月费20美元，提供优先访问、更快的响应时间以及首先体验新功能的机会。Plus版用户可以使用最新旗舰模型（GPT-5 / GPT-6 系列）的更高额度，还可以使用图片生成、深度研究等附加功能。
 - **ChatGPT企业版**：OpenAI也推出了面向企业的ChatGPT Enterprise，提供比基本版本更多的安全增强和管理控制选项。对于企业版的定价，组织可以联系OpenAI的销售团队了解更多信息。
 
 ### ChatGPT的服务限制：
