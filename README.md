@@ -27,10 +27,10 @@
 
 **想搞定「科学上网 / 翻墙」这件事？这个仓库是你要的中文速查库** —— 从选方案、配 Clash、挑机场，到排障、测速、用上 ChatGPT / Gemini，一张表一个症状就能查到。
 
-覆盖主题：VPN / Clash 机场 / VPS 自建三大方案、Windows / Android / iOS 全平台配置、VMess / VLESS / Trojan / Reality / Hysteria2 协议、机场订阅避坑，以及海外 AI 工具的国内访问。
+覆盖主题：VPN / Clash 机场 / VPS 自建三大方案、Windows / Android / iOS 全平台配置、VMess / VLESS / Trojan / Reality / Hysteria2 协议、机场订阅避坑，以及海外 AI 工具（ChatGPT / Gemini / Claude / AI 编程）的国内使用与购买。
 
 - **在线版（最新）**：[tanqingbo.cn](https://tanqingbo.cn/) —— 完整图文与持续更新
-- **离线版（精选）**：本仓库 `docs/` 目录，17 篇 canonical 文档，便于收藏、离线阅读、批量检索
+- **离线版（精选）**：本仓库 `docs/` 目录，19 篇 canonical 文档，便于收藏、离线阅读、批量检索
 
 ## 🧭 核心总览（建议先看这 4 篇）
 
@@ -50,6 +50,15 @@
 - **[Clash 独立排障指南](docs/Clash独立排障指南.md)** —— 按「症状」对照排查，别再盲目换节点
 - **[Clash 节点测速指南](docs/节点测速指南.md)** —— 延迟 ≠ 带宽，测速失败 / 延迟高怎么排
 
+## 🤖 AI 工具专区（ChatGPT / Gemini / Claude 国内怎么用）
+
+翻墙解决后，最常见的需求就是「把 AI 用起来」。库内 5 篇 AI 文档按使用阶段排：
+
+1. **注册登录**：[ChatGPT 国内注册与使用](docs/ChatGPT国内注册与使用.md) / [Gemini 国内使用](docs/Gemini国内使用.md)
+2. **付费方案**：[AI 大模型购买指南](docs/AI大模型购买指南.md) —— 合租 / 独享 / 镜像 / 代充四种方案怎么选，官方订阅的付款路
+3. **AI 写代码**：[AI 编程工具选型](docs/AI编程工具选型.md) —— Claude Code / OpenCode / 豆包 Agent / rmux 全景与四条路线
+4. **工具全景**：[AI 工具一览](docs/AI工具一览.md) —— 对话 / 图像 / 视频 / 音频四大类选型
+
 ## 🔥 博客热门教程（在线版，持续更新）
 
 站内阅读量最高的实操教程，图文更完整、数据更新更及时：
@@ -62,7 +71,7 @@
 
 ## 📚 本仓库精选文档（`docs/`）
 
-仓库内的 17 篇精选文档按主题分类如下（相对路径，可离线阅读）：
+仓库内的 19 篇精选文档按主题分类如下（相对路径，可离线阅读）：
 
 ### 🖥 综合与平台教程
 
@@ -71,7 +80,7 @@
 | [科学上网完全指南](docs/科学上网完全指南.md) | VPN / Clash / VPS 三大方案对比 + 全平台入口 + 国外网站导航 |
 | [Windows 翻墙三方案对比](docs/Windows翻墙三方案对比.md) | 机场 / 自建 VPS / 商业 VPN 在 Windows 上的实操对比与选择 |
 | [手机科学上网教程](docs/手机科学上网教程.md) | Android（ClashMeta）+ iOS（Spectre）全流程，含海外 Apple ID 注册 |
-| [快狸机场全平台使用教程](docs/快狸机场全平台使用教程.md) | 以快狸为例的机场客户端配置全流程（Windows / 安卓 / iPhone） |
+| [快狸机场全平台使用教程](docs/快狸机场全平台使用教程.md) | 以快狸为例演示机场客户端配置全流程（Windows / 安卓 / iPhone），仅示例非推荐 |
 
 ### 🔧 Clash / 协议 / 机场
 
@@ -90,6 +99,8 @@
 |------|-------------|
 | [ChatGPT 国内注册与使用](docs/ChatGPT国内注册与使用.md) | ChatGPT 注册、登录、使用全流程 |
 | [Gemini 国内使用](docs/Gemini国内使用.md) | Google Gemini 国内访问与使用 |
+| [AI 大模型购买指南](docs/AI大模型购买指南.md) | 合租 / 独享 / 镜像 / 代充四种方案怎么选，ChatGPT Plus / Claude / Gemini 怎么买便宜 |
+| [AI 编程工具选型](docs/AI编程工具选型.md) | Claude Code / OpenCode / 豆包 Agent 等 AI 编程工具三种形态与四条路线 |
 | [AI 工具一览](docs/AI工具一览.md) | 对话 / 图像 / 视频 / 音频四大类工具整理，附选型提醒 |
 | [电报 Telegram 教程](docs/电报Telegram教程.md) | Telegram 下载、注册、加群 |
 
@@ -109,8 +120,8 @@
 Open-Internet/
 ├── README.md            # 本文件
 ├── LICENSE              # CC BY 4.0
-├── 文章分类目录.md        # 17 篇文档分类索引
-└── docs/                # 17 篇 canonical 精选文档
+├── 文章分类目录.md        # 19 篇文档分类索引
+└── docs/                # 19 篇 canonical 精选文档
     ├── 科学上网完全指南.md
     ├── Windows翻墙三方案对比.md
     ├── 手机科学上网教程.md
@@ -123,6 +134,8 @@ Open-Internet/
     ├── 节点测速指南.md
     ├── ChatGPT国内注册与使用.md
     ├── Gemini国内使用.md
+    ├── AI大模型购买指南.md
+    ├── AI编程工具选型.md
     ├── AI工具一览.md
     ├── 奈飞Netflix教程.md
     ├── 国外视频网站推荐.md
@@ -130,7 +143,7 @@ Open-Internet/
     └── 电报Telegram教程.md
 ```
 
-> 本仓库于 2026-07 完成内容整合：原 30 篇同质 / 重复文章整合为 17 篇 canonical 文档，每篇负责一个清晰搜索意图，维护点减少约 43%。
+> 本仓库于 2026-07 完成内容整合：原 30 篇同质 / 重复文章整合为 17 篇 canonical 文档（后续新增 AI 文档 2 篇，现共 19 篇），每篇负责一个清晰搜索意图，维护点减少约 43%。
 
 ## 🚀 新手快速上手（Windows）
 
