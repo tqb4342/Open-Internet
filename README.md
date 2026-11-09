@@ -4,7 +4,7 @@
 
 ### 科学上网 · Clash · 代理协议 · AI 工具 中文教程合集
 
-持续更新的中文教程精选与导航 · 每篇只解决一个具体问题，可离线检索 · 配套博客 [tanqingbo.cn](https://tanqingbo.cn/)
+持续更新的中文教程精选与导航 · 每篇只解决一个具体问题，可离线检索 · 配套博客 [tanqingbo.cn](https://tanqingbo.cn/) · 姊妹站 [aisurf.cc](https://aisurf.cc/)
 
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/tqb4342/Open-Internet?label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0&color=success)
@@ -68,6 +68,8 @@
 - **[2026 翻墙软件推荐：VPN 与机场怎么选](https://tanqingbo.cn/best-vps/)**
 - **[自建机场教程：VPS 搭建机场全流程](https://tanqingbo.cn/build-your-own-airport/)**
 - **[手机电脑翻墙教程：2026 科学上网保姆级指南](https://tanqingbo.cn/Clash-VPS/)**
+
+姊妹站 [aisurf.cc](https://aisurf.cc/) 侧重 AI 工具与网络配置的交叉实战：Trae / Cursor / Codex 连不上怎么排查、ChatGPT / Gmail 账号注册避坑、DeepSeek 多模态实测等专题。
 
 ## 📚 本仓库精选文档（`docs/`）
 
