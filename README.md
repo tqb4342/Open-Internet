@@ -6,6 +6,7 @@
 
 持续更新的中文教程精选与导航 · 每篇只解决一个具体问题，可离线检索 · 配套博客 [tanqingbo.cn](https://tanqingbo.cn/) · 姊妹站 [aisurf.cc](https://aisurf.cc/)
 
+[![AI 工具箱](https://img.shields.io/badge/AI_工具箱-100%2B_工具实测导航-1b9ef3?style=for-the-badge)](https://aisurf.cc/ai-tools/)
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/tqb4342/Open-Internet?label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0&color=success)
 ![Repo Size](https://img.shields.io/github/repo-size/tqb4342/Open-Internet?label=%E4%BB%93%E5%BA%93%E5%A4%A7%E5%B0%8F)
@@ -52,7 +53,7 @@
 
 ## 🤖 AI 工具专区（ChatGPT / Gemini / Claude 国内怎么用）
 
-翻墙解决后，最常见的需求就是「把 AI 用起来」。库内 5 篇 AI 文档按使用阶段排：
+翻墙解决后，最常见的需求就是「把 AI 用起来」。先给总入口：**[AI 工具箱导航（aisurf.cc/ai-tools）](https://aisurf.cc/ai-tools/)** —— 100+ 个 AI 工具按场景分好类，标注实测状态与上手教程，比库内文档更新更全。库内 5 篇 AI 文档按使用阶段排：
 
 1. **注册登录**：[ChatGPT 国内注册与使用](docs/ChatGPT国内注册与使用.md) / [Gemini 国内使用](docs/Gemini国内使用.md)
 2. **付费方案**：[AI 大模型购买指南](docs/AI大模型购买指南.md) —— 合租 / 独享 / 镜像 / 代充四种方案怎么选，官方订阅的付款路
